@@ -53,3 +53,11 @@ coverage.xml
 docs/_build/
 
 *.DS_Store
+
+# Google API Secrets
+client_secret.json
+application_credentials.json
+storage.json
+credentials.json
+token.pickle
+
