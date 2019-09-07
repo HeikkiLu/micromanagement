@@ -52,7 +52,7 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
-*.DS_Store
+.DS_Store
 
 # Google API Secrets
 client_secret.json
