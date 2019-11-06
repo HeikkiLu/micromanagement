@@ -1,4 +1,8 @@
 # Task Manager
 This app lets you record your tasks to google calendar.
 
-https://developers.google.com/calendar/quickstart/python is needed.
+
+![Micromanagement Demo](micromanagement.gif)
+
+
+https://developers.google.com/calendar/quickstart/python
