@@ -1,5 +1,5 @@
 # Task Manager
-This app lets you record your tasks to google calendar.
+This app lets you record your ongoing tasks to google calendar.
 
 
 ![Micromanagement Demo](micromanagement.gif)
