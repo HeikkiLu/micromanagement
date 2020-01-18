@@ -1,7 +1,7 @@
 # Task Manager
 This app lets you record your ongoing tasks to google calendar.
 
-# How to run
+## How to run
 
 * Turn on the Google Calendar API and download your credentials.json.
   * [Instructions](https://developers.google.com/calendar/quickstart/python)
